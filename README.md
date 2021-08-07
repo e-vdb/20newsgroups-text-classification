@@ -32,3 +32,11 @@ See the following websites for more information about 20newsgroups.
 * https://www.kaggle.com/crawford/20-newsgroups
 * https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html
 
+Notebook
+* Natural Language Processing (NLP)
+  * Standard Count Vectorizer
+  * TFIDF transformer 
+* Machine learning models
+  * Multi naive Bayes Classifier
+  * Linear Support Vector Machine classifier
+* Evaluation of the accuracy score
