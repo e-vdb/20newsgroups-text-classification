@@ -32,11 +32,11 @@ See the following websites for more information about 20newsgroups.
 * https://www.kaggle.com/crawford/20-newsgroups
 * https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html
 
-###Repository content
+### Repository content
 * twentyNewsgroups.ipynb: Jupyter Notebook
 
 
-###Notebook
+### Notebook
 * Natural Language Processing (NLP)
   * Standard Count Vectorizer
   * TFIDF transformer 
